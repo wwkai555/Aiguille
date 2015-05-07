@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:orientation="horizontal" android:gravity="center_horizontal|center_vertical"
+
+    >
+<TextView
+    android:id="@+id/loading"
+    android:layout_width="wrap_content"
+    android:layout_height="90dp"
+    android:textColor="@color/news_content"
+    android:gravity="center_vertical"
+    android:textSize="22sp"
+    android:text="Loading"
+
+    />
+    <TextView
+        android:id="@+id/the_end"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/news_content"
+        android:textSize="22sp"
+        android:text="TheEnd"
+        />
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowbgColor">#009688</color>
+    <color name="windowStuBarbgColor">#00796b</color>
+    <color name="fragment_news_bg">#66212121</color>
+    <color name="menu">#00ffffff</color>
+    <color name="news_title">#212121</color>
+    <color name="status_bar_bg">#008ee0</color>
+    <color name="news_content">#66212121</color>
+    <color name="news_bg">#f0f9eb</color>
+    <color name="img_bg">#99f0f9eb</color>
+</resources>

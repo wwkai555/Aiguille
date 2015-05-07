@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Aiguille</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_news_item">NewsItemActivity</string>
+
+    <!-- drawer attrs -->
+    <string name="drawerOpen">"the drawer is opening"</string>
+    <string name="drawerClose">"the drawer is close"</string>
+    <string name="toolBarTitle">Aiguille</string>
+
+
+    <string name="detail_news">详细新闻</string>
+    <string name="location">定位</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_base">BaseActivity</string>
+
+    <!-- viewpager title -->
+    <string-array name="titles">
+        <item>新闻</item>
+        <item>音乐</item>
+        <item>体育</item>
+        <item>视频</item>
+        <item>广播</item>
+    </string-array>
+
+    <string-array name="news_category">
+        <item>社会</item>
+        <item>科技</item>
+        <item>娱乐</item>
+    </string-array>
+
+    <string-array name="music_category">
+        <item>经典老歌</item>
+        <item>轻音乐</item>
+        <item>劲爆舞曲</item>
+    </string-array>
+
+    <string-array name="sport_category">
+        <item>NBA</item>
+        <item>足球</item>
+        <item>网球</item>
+    </string-array>
+
+    <string-array name="moive_category">
+        <item>科幻片</item>
+        <item>动作片</item>
+        <item>喜剧片</item>
+    </string-array>
+
+    <string-array name="fm_category">
+        <item>青春校园</item>
+        <item>都市浪漫</item>
+        <item>奇闻奇事</item>
+    </string-array>
+
+</resources>
