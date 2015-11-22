@@ -13,7 +13,7 @@ bin/
 gen/
 
 # Gradle files
-.gradle/
+.gradle/sss
 build/
 
 # Local configuration file (sdk path, etc)
@@ -30,3 +30,6 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+#vim
+.swp
